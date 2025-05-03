@@ -3,6 +3,7 @@
 ### Added
 
 - Changelog
+- Github
 
 ### Fixed
 

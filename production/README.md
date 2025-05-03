@@ -1,0 +1,1 @@
+# Infinite ammo
